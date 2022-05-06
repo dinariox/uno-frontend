@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@700&display=swap');
+
+* {
+    font-family: 'Rubik', sans-serif;
+}
+
+.text-stroke {
+    -webkit-text-stroke: 6px black;
+}
+
+.text-stroke-sm {
+    -webkit-text-stroke: 3px black;
+}
+
+.color-wish {
+    background: linear-gradient(0deg, rgba(220,38,38,1) 0%, rgba(220,38,38,1) 25%, rgba(234,179,8,1) 25%, rgba(234,179,8,1) 50%, rgba(22,163,74,1) 50%, rgba(22,163,74,1) 75%, rgba(126,34,206,1) 75%, rgba(126,34,206,1) 100%);
+}
